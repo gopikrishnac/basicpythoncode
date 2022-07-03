@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79a75410-ef6d-4fce-96a9-33e05705620d" name="Changes" comment="git commit -m &quot;first commit&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lamdaa.py" beforeDir="false" afterPath="$PROJECT_DIR$/lamdaa.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
